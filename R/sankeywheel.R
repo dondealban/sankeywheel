@@ -1,6 +1,6 @@
 #' Create Dependency Wheels and Sankey Diagrams
 #'
-#'  @description By binding R functions and the 'Highcharts' <http://www.highcharts.com/> charting library, 'sankeywheel' package provides a simple way to draw dependency wheels and sankey diagrams.
+#' @description By binding R functions and the 'Highcharts' <http://www.highcharts.com/> charting library, 'sankeywheel' package provides a simple way to draw dependency wheels and sankey diagrams.
 #'
 #' @param from from verctor;
 #' @param to to vector;
